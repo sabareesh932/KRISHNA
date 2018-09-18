@@ -7,4 +7,7 @@ pipeline {
       }
     }
   }
+  environment {
+    git = '123'
+  }
 }
